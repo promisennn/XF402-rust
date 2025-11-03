@@ -1,6 +1,6 @@
 # 🦀 XF402-rust
 
-**XF402-rust** is the Rust / Solana reference implementation of the [XF402 protocol](https://github.com/yourusername/XF402) — an open standard for **time-based access**, **licensing**, and **temporary ownership** of digital assets.
+**XF402-rust** is the Rust / Solana reference implementation of the [XF402 protocol](https://github.com/promisennn/XF402) — an open standard for **time-based access**, **licensing**, and **temporary ownership** of digital assets.
 
 It extends Coinbase’s [x402](https://github.com/coinbase/x402) payment primitive into a **smart contract layer** that supports:
 - Renting NFTs
@@ -27,7 +27,7 @@ This repo will eventually host the **core Rust program** and **on-chain schema**
 
 ## 🧠 Learn More
 
-- XF402 protocol docs → [https://github.com/promisennn](https://github.com/yourusername/XF402)
+- XF402 protocol docs → [https://github.com/promisennn/XF402](https://github.com/promisennn/XF402)
 - x402 payment standard → [coinbase/x402](https://github.com/coinbase/x402)
 
 ---
